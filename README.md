@@ -1,2 +1,1 @@
-# tindog
-A social site for dogs
+TinDog Starting Files
